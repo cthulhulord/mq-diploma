@@ -1268,6 +1268,7 @@ a {
   }
 
   .trends-card-content {
+	width: 100%;
   	padding: 29px 20px 22px 20px;
   }
 

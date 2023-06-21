@@ -362,8 +362,7 @@ a {
 
 .trends-card {
 	display: flex;
-	flex-direction: column;
-	justify-content: end;
+	align-items: flex-end;
 	width: calc((100% - 12px) / 4);
 	padding: 130px 20px 20px 20px;
 	box-sizing: border-box;
